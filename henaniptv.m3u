@@ -29,8 +29,6 @@ http://222.85.81.15:6060/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=
 http://222.85.81.15:6060/PLTV1/300/index.m3u8?icpid=dxrm1&servicetype=
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV15
 http://222.85.81.15:6060/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV16
-http://pisceskong.asuscomm.com:5901/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV5+
